@@ -1,0 +1,10 @@
+{
+    "name": "user/routing_demo1",
+    "description": "efer",
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "": ["controller/", "model/", "./"]
+        }
+    }
+}
